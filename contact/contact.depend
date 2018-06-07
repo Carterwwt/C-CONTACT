@@ -1,0 +1,124 @@
+# depslib dependency file v1.0
+1523968507 source:c:\users\carterwwt\desktop\contact\login.c
+	"user.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1523963196 c:\users\carterwwt\desktop\contact\user.h
+	<windows.h>
+
+1523969537 source:c:\users\carterwwt\desktop\contact\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"user.h"
+	<stdlib.h>
+
+1523968225 source:c:\users\carterwwt\desktop\contact\register.c
+	<stdio.h>
+	"user.h"
+	<string.h>
+
+1523705502 source:c:\users\carterwwt\desktop\contact\user_menu.c
+	"user.h"
+	<stdio.h>
+	<string.h>
+
+1523968507 source:c:\users\carterwwt\desktop\codeblocks\contact\login.c
+	"user.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1523963196 c:\users\carterwwt\desktop\codeblocks\contact\user.h
+	<windows.h>
+
+1523969537 source:c:\users\carterwwt\desktop\codeblocks\contact\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"user.h"
+	<stdlib.h>
+
+1523968225 source:c:\users\carterwwt\desktop\codeblocks\contact\register.c
+	<stdio.h>
+	"user.h"
+	<string.h>
+
+1528124769 source:c:\users\carterwwt\desktop\¥Û‘”ª‚\codeblocks\contact\login.c
+	"user.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1528178559 c:\users\carterwwt\desktop\¥Û‘”ª‚\codeblocks\contact\user.h
+	<windows.h>
+
+1528113977 source:c:\users\carterwwt\desktop\¥Û‘”ª‚\codeblocks\contact\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"user.h"
+	<stdlib.h>
+
+1528113954 source:c:\users\carterwwt\desktop\¥Û‘”ª‚\codeblocks\contact\register.c
+	<stdio.h>
+	"user.h"
+	<string.h>
+
+1524056006 source:c:\users\carterwwt\desktop\¥Û‘”ª‚\codeblocks\contact\login_menu.c
+	"user.h"
+	<stdio.h>
+
+1528178559 source:c:\users\carterwwt\desktop\¥Û‘”ª‚\codeblocks\contact\logged_menu.c
+	"user.h"
+	<stdio.h>
+	<string.h>
+
+1528181635 source:c:\users\carterwwt\desktop\¥Û‘”ª‚\codeblocks\contact\editcontact.c
+	"user.h"
+	<stdio.h>
+	<string.h>
+
+1527802474 source:c:\users\carterwwt\desktop\¥Û‘”ª‚\codeblocks\contact\newcontact.c
+	"user.h"
+	<stdio.h>
+	<string.h>
+
+1528178675 source:c:\users\carterwwt\desktop\¥Û‘”ª‚\codeblocks\contact\linklist.c
+	"user.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1524292253 c:\users\carterwwt\desktop\¥Û‘”ª‚\codeblocks\contact\linklist.c
+	"user.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1527256162 source:c:\users\carterwwt\desktop\¥Û‘”ª‚\codeblocks\contact\displayall.c
+	"user.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1527776836 source:c:\users\carterwwt\desktop\¥Û‘”ª‚\codeblocks\contact\displaybygroup.c
+	"user.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1527522063 source:c:\users\carterwwt\desktop\¥Û‘”ª‚\codeblocks\contact\searchcontact.c
+	"user.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1528096981 source:c:\users\carterwwt\desktop\¥Û‘”ª‚\codeblocks\contact\contactinfo.c
+	"user.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
