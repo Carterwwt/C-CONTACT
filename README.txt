@@ -13,5 +13,5 @@ Contact management console application(C version)
 
 文件夹里有全部源码，使用Code::Blocks16.01 开发。
 
-注：contact/data下的userID_data文件夹用来存用户名与密码，Contact_data用来存一位用户的所有通讯录信息。提供一个初始用户admin，密码也为admin。
+注：contact/data下的userID_data文件夹用来存用户名与密码，Contact_data用来存每位用户的所有通讯录信息。提供一个初始用户admin，密码也为admin。
 欢迎交流：carterwwt@outlook.com
